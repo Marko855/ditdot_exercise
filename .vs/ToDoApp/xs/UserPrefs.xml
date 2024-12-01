@@ -1,0 +1,39 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ToDoApp">
+            <Node name="src" expanded="True">
+              <Node name="Application" expanded="True">
+                <Node name="TodoItems" expanded="True">
+                  <Node name="Commands" expanded="True">
+                    <Node name="CreateTodoItem" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Web" expanded="True">
+                <Node name="Controllers" expanded="True" />
+                <Node name="Properties" expanded="True" />
+                <Node name="Services" expanded="True" />
+                <Node name="wwwroot" expanded="True">
+                  <Node name="api" expanded="True" />
+                </Node>
+                <Node name="appsettings.json" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="tests" expanded="True">
+              <Node name="Application.FunctionalTests" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

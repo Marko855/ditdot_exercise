@@ -1,6 +1,8 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.ViewFeatures;
 using ToDoApp.Infrastructure.Data;
+using Microsoft.EntityFrameworkCore;
+
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -13,6 +15,9 @@ builder.Services.AddWebServices();
 builder.Services.AddRazorPages().AddSessionStateTempDataProvider();
 builder.Services.AddControllersWithViews().AddSessionStateTempDataProvider();
 builder.Services.AddSession();
+builder.Services.AddDbContext<ApplicationDbContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
 
 var app = builder.Build();
 

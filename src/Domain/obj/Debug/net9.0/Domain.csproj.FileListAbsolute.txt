@@ -1,0 +1,13 @@
+/Users/markodananic/Desktop/ditdot_exercise/src/Domain/bin/Debug/net9.0/ToDoApp.Domain.deps.json
+/Users/markodananic/Desktop/ditdot_exercise/src/Domain/bin/Debug/net9.0/ToDoApp.Domain.dll
+/Users/markodananic/Desktop/ditdot_exercise/src/Domain/bin/Debug/net9.0/ToDoApp.Domain.pdb
+/Users/markodananic/Desktop/ditdot_exercise/src/Domain/obj/Debug/net9.0/Domain.csproj.AssemblyReference.cache
+/Users/markodananic/Desktop/ditdot_exercise/src/Domain/obj/Debug/net9.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/markodananic/Desktop/ditdot_exercise/src/Domain/obj/Debug/net9.0/Domain.AssemblyInfoInputs.cache
+/Users/markodananic/Desktop/ditdot_exercise/src/Domain/obj/Debug/net9.0/Domain.AssemblyInfo.cs
+/Users/markodananic/Desktop/ditdot_exercise/src/Domain/obj/Debug/net9.0/Domain.csproj.CoreCompileInputs.cache
+/Users/markodananic/Desktop/ditdot_exercise/src/Domain/obj/Debug/net9.0/Domain.sourcelink.json
+/Users/markodananic/Desktop/ditdot_exercise/src/Domain/obj/Debug/net9.0/ToDoApp.Domain.dll
+/Users/markodananic/Desktop/ditdot_exercise/src/Domain/obj/Debug/net9.0/refint/ToDoApp.Domain.dll
+/Users/markodananic/Desktop/ditdot_exercise/src/Domain/obj/Debug/net9.0/ToDoApp.Domain.pdb
+/Users/markodananic/Desktop/ditdot_exercise/src/Domain/obj/Debug/net9.0/ref/ToDoApp.Domain.dll

@@ -1,0 +1,602 @@
+{
+  "Version": 1,
+  "ManifestType": "Build",
+  "Endpoints": [
+    {
+      "Route": "api/specification.8u7y8nxlbx.json",
+      "AssetFile": "api/specification.json.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000691562932"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1445"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5OyI7ocKTBqiUgN8rAi6B99O7OAgvoHoTM+kE8F2PEE=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"0I8a2TfJver65HfCnlaxOY/p1fdUFRLTPDeDa2oc2Wc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Nov 2024 06:15:30 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8u7y8nxlbx"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0I8a2TfJver65HfCnlaxOY/p1fdUFRLTPDeDa2oc2Wc="
+        },
+        {
+          "Name": "label",
+          "Value": "api/specification.json"
+        }
+      ]
+    },
+    {
+      "Route": "api/specification.8u7y8nxlbx.json",
+      "AssetFile": "api/specification.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15133"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0I8a2TfJver65HfCnlaxOY/p1fdUFRLTPDeDa2oc2Wc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Nov 2024 06:15:30 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8u7y8nxlbx"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0I8a2TfJver65HfCnlaxOY/p1fdUFRLTPDeDa2oc2Wc="
+        },
+        {
+          "Name": "label",
+          "Value": "api/specification.json"
+        }
+      ]
+    },
+    {
+      "Route": "api/specification.8u7y8nxlbx.json.gz",
+      "AssetFile": "api/specification.json.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1445"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5OyI7ocKTBqiUgN8rAi6B99O7OAgvoHoTM+kE8F2PEE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Nov 2024 06:15:30 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8u7y8nxlbx"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5OyI7ocKTBqiUgN8rAi6B99O7OAgvoHoTM+kE8F2PEE="
+        },
+        {
+          "Name": "label",
+          "Value": "api/specification.json.gz"
+        }
+      ]
+    },
+    {
+      "Route": "api/specification.json",
+      "AssetFile": "api/specification.json.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000691562932"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1445"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5OyI7ocKTBqiUgN8rAi6B99O7OAgvoHoTM+kE8F2PEE=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"0I8a2TfJver65HfCnlaxOY/p1fdUFRLTPDeDa2oc2Wc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Nov 2024 06:15:30 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0I8a2TfJver65HfCnlaxOY/p1fdUFRLTPDeDa2oc2Wc="
+        }
+      ]
+    },
+    {
+      "Route": "api/specification.json",
+      "AssetFile": "api/specification.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15133"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0I8a2TfJver65HfCnlaxOY/p1fdUFRLTPDeDa2oc2Wc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Nov 2024 06:15:30 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0I8a2TfJver65HfCnlaxOY/p1fdUFRLTPDeDa2oc2Wc="
+        }
+      ]
+    },
+    {
+      "Route": "api/specification.json.gz",
+      "AssetFile": "api/specification.json.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1445"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5OyI7ocKTBqiUgN8rAi6B99O7OAgvoHoTM+kE8F2PEE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Nov 2024 06:15:30 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5OyI7ocKTBqiUgN8rAi6B99O7OAgvoHoTM+kE8F2PEE="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.61n19gt1b8.ico",
+      "AssetFile": "favicon.ico.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000405022276"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2468"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+/824NtfTA0L7Mr42Fo+86YJP4R5cigdi9S7Fx5VVl4=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Nov 2024 06:15:30 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "61n19gt1b8"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.ico"
+        }
+      ]
+    },
+    {
+      "Route": "favicon.61n19gt1b8.ico",
+      "AssetFile": "favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5430"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Nov 2024 06:15:30 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "61n19gt1b8"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.ico"
+        }
+      ]
+    },
+    {
+      "Route": "favicon.61n19gt1b8.ico.gz",
+      "AssetFile": "favicon.ico.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2468"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+/824NtfTA0L7Mr42Fo+86YJP4R5cigdi9S7Fx5VVl4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Nov 2024 06:15:30 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "61n19gt1b8"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+/824NtfTA0L7Mr42Fo+86YJP4R5cigdi9S7Fx5VVl4="
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.ico.gz"
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ico",
+      "AssetFile": "favicon.ico.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000405022276"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2468"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+/824NtfTA0L7Mr42Fo+86YJP4R5cigdi9S7Fx5VVl4=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Nov 2024 06:15:30 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ico",
+      "AssetFile": "favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5430"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Nov 2024 06:15:30 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ico.gz",
+      "AssetFile": "favicon.ico.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2468"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+/824NtfTA0L7Mr42Fo+86YJP4R5cigdi9S7Fx5VVl4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Nov 2024 06:15:30 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+/824NtfTA0L7Mr42Fo+86YJP4R5cigdi9S7Fx5VVl4="
+        }
+      ]
+    }
+  ]
+}

@@ -30,7 +30,7 @@
             @foreach (var todo in Model.Todos)
             {
                 <label class="list-group-item d-flex gap-3 strijke">
-                    <input class="form-check-input flex-shrink-0" type="checkbox" value="@todo.Id" style="font-size: 1.375em;" name="id">
+                <input class="form-check-input flex-shrink-0" type="checkbox" value="@todo.Id" name="id" style="font-size: 1.375em;">
                     <span class="pt-1 form-checked-content">
                         @if (todo.Done)
                         {

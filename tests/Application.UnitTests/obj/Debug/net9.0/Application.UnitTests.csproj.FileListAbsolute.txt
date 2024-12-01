@@ -1,0 +1,8 @@
+/Users/markodananic/Desktop/ditdot_exercise/tests/Application.UnitTests/bin/Debug/net9.0/.msCoverageSourceRootsMapping_ToDoApp.Application.UnitTests
+/Users/markodananic/Desktop/ditdot_exercise/tests/Application.UnitTests/bin/Debug/net9.0/CoverletSourceRootsMapping_ToDoApp.Application.UnitTests
+/Users/markodananic/Desktop/ditdot_exercise/tests/Application.UnitTests/obj/Debug/net9.0/Application.UnitTests.csproj.AssemblyReference.cache
+/Users/markodananic/Desktop/ditdot_exercise/tests/Application.UnitTests/obj/Debug/net9.0/Application.UnitTests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/markodananic/Desktop/ditdot_exercise/tests/Application.UnitTests/obj/Debug/net9.0/Application.UnitTests.AssemblyInfoInputs.cache
+/Users/markodananic/Desktop/ditdot_exercise/tests/Application.UnitTests/obj/Debug/net9.0/Application.UnitTests.AssemblyInfo.cs
+/Users/markodananic/Desktop/ditdot_exercise/tests/Application.UnitTests/obj/Debug/net9.0/Application.UnitTests.csproj.CoreCompileInputs.cache
+/Users/markodananic/Desktop/ditdot_exercise/tests/Application.UnitTests/obj/Debug/net9.0/Application.UnitTests.sourcelink.json
