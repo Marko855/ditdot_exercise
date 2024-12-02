@@ -32,15 +32,14 @@ public class ToDoItemController : Controller
     }
 
     [HttpPost]
-    public async Task<IActionResult> Delete([FromBody]List<int> id_list, CancellationToken cancellationToken)
-    {   
-
-        Console.WriteLine("Received IDs: " + string.Join(", ", id_list));
+    public async Task<IActionResult> Delete([FromForm] List<int> id, CancellationToken cancellationToken)
+    {
+        Console.WriteLine("Received IDs: " + string.Join(", ", id));
         bool allDeleted = true;
 
-        foreach (var id in id_list)
+        foreach (var id_num in id)
         {
-            var command = new DeleteTodoItemCommand(id);
+            var command = new DeleteTodoItemCommand(id_num);
 
             try
             {
